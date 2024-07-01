@@ -14,7 +14,7 @@ To install and view this project locally, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/YourUsername/MyCV.git
+    git clone https://github.com/Sammy-astro/MyCV.git
     ```
 
 2. **Navigate to the project directory**:
@@ -28,7 +28,6 @@ To install and view this project locally, follow these steps:
 1. **View the webpage**:
     - Open the `index.html` file in any web browser to see the CV layout.
 
-![MyCV Screenshot](screenshot.png)
 
 ## Credits
 Author: Sammy Astroblast
